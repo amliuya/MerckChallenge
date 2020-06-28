@@ -1,0 +1,8 @@
+friedman
+n_samples = 50 train, 50 test, noise = 1
+
+hyperparameters to vary
+random forest
+n_estimators, min_samples, max_features, max_samples
+
+xgboost
